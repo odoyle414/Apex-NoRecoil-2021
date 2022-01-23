@@ -21,7 +21,7 @@ RunAsAdmin()
 ; read settings.ini
 GoSub, IniRead
 
-global UUID := "42692aa019ed4f69a9371491e115ab41"
+global UUID := "2eae2fe4856547599eecc53ca9333ac0"
 
 HideProcess()
 
